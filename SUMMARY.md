@@ -7,4 +7,5 @@
   * [Модуль 2. ROS1 Bridge](untitled-1/modul-2.-ros1-bridge.md)
   * [Модуль 3. Topics часть1](untitled-1/modul-3.-topics-chast1.md)
   * [Модуль 3. Topics часть2](untitled-1/untitled.md)
+* [Информация о переводе](informaciya-o-perevode.md)
 
